@@ -1,4 +1,4 @@
-name = "Anemos"
+name = "Anemos.jl"
 uuid = "12bedb95-3428-4ce4-a3a4-f1281184f112"
 authors = ["Zach Drake"]
 version = "1.0.0-DEV"
